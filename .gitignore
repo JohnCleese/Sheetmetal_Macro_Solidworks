@@ -1,0 +1,14 @@
+/build/
+/dist/
+/output/
+/venv/
+/main.spec
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/.name
+/.idea/MACRO.iml
+/shelf/
+/workspace.xml
+/.idea/workspace.xml
